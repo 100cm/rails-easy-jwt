@@ -1,4 +1,4 @@
-# Atyun::Oauth::Filter
+# Icepoint::Oauth::Filter
 
 
 ## Installation
