@@ -18,6 +18,11 @@ Or install it yourself as:
     $ gem install rails-easy-jwt
 
 ## Usage
+In your ApplicationController
+
+```ruby
+include Icepoint::Oauth::Filter
+```
 
 TODO: 小型JWT验证API权限
 
